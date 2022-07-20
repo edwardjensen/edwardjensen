@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Edward Jensen (@edwardjensen).
+# 👋 Hi, I’m Edward Jensen (@edwardjensen)
 
 - 👀 I’m interested in systems administration and automation within the lens of nonprofit organizations.
 - 🌱 I’m currently reacquainting myself with Powershell, and learning .NET and C#.
@@ -10,8 +10,17 @@ More to come later, but for now, here's a photo of Minneapolis's Stone Arch Brid
 
 ***
 
-## Current projects and technological musings include:
+## Current projects and technological musings include
 
 - 🏢 Development of IT policies and procedures, especially when it comes to employee offboarding and enterprise data protection.
 - 📝 Scripting and integration with other enterprise tools to streamline IT's role in employee onboarding and offboarding.
 - 📰 Finally getting around to revisiting the technology stack behind my blog, [edwardjensen.net](https://www.edwardjensen.net/), so it's not based on a monolithic WordPress instance, but something more cloudy (and less expensive!).
+
+***
+
+## Other ways to find me
+
+- :earth_americas: My blog, [edwardjensen.net](https://www.edwardjensen.net/)
+-  LinkedIn, [linkedin.com/in/edwardjensen](https://www.linkedin.com/in/edwardjensen)
+-  Twitter @[edwardjensen](https://twitter.com/edwardjensen) (but rarely)
+- Contact form (coming soon!)
