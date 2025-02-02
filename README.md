@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Edward Jensen (@edwardjensen)
+# 👋 Hi, I’m Edward Jensen (@edwardjensen.net)
 
 - 👀 I’m interested in systems administration and automation within the lens of nonprofit organizations.
 - 🌱 I’m currently reacquainting myself with Powershell, and learning .NET and C#.
