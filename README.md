@@ -21,5 +21,5 @@ More to come later, but for now, here's a photo of Minneapolis's Stone Arch Brid
 
 ## Other ways to find me
 
-- My blog, [edwardjensen.net](https://www.edwardjensen.net/)
+- My blog, [edwardjensen.net](https://hi.edwardjensen.net/github)
 - LinkedIn, [linkedin.com/in/edwardjensen](https://www.linkedin.com/in/edwardjensen)
