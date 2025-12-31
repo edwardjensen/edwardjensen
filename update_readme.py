@@ -4,19 +4,24 @@ Fetches recent blog posts from edwardjensen.net JSON feed
 and updates the README.md with the latest entries.
 """
 
+import os
 import re
 import urllib.request
 import json
 from datetime import datetime
 
-FEED_URL = "https://www.edwardjensen.net/feed.json"
+FEED_URL = os.environ.get("SITE_JSON_FEED", "https://www.edwardjensen.net/feed.json")
 README_PATH = "README.md"
 MAX_POSTS = 5
 
 
 def fetch_feed():
     """Fetch and parse the JSON feed."""
-    with urllib.request.urlopen(FEED_URL) as response:
+    request = urllib.request.Request(
+        FEED_URL,
+        headers={"User-Agent": "GitHub-Actions-README-Updater/1.0"}
+    )
+    with urllib.request.urlopen(request) as response:
         return json.loads(response.read().decode("utf-8"))
 
 

@@ -23,6 +23,8 @@ jobs:
 
       - name: Update README
         run: python update_readme.py
+        env:
+          SITE_JSON_FEED: ${{ vars.SITE_JSON_FEED }}
 
       - name: Commit and push changes
         run: |
