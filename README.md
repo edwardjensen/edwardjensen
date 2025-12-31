@@ -1,25 +1,20 @@
-# 👋 Hi, I’m Edward Jensen (@edwardjensen.net)
+# Edward Jensen
 
-- 👀 I’m interested in systems administration and automation within the lens of nonprofit organizations.
-- 🌱 I’m currently reacquainting myself with Powershell, and learning .NET and C#.
-- 💞️ I’m looking to collaborate with other IT professionals in the nonprofit sphere in Minnesota.
+Nonprofit IT practitioner based in Saint Paul, Minnesota. Fifteen-plus years leading technology functions at mission-driven organizations, with a focus on institutional resilience, systems integration, and making IT work as a mission multiplier rather than a cost center.
 
-More to come later, but for now, here's a photo of Minneapolis's Stone Arch Bridge from April 2022
+I think of technology—including AI—as tools in a toolbox, not the toolbox itself. The interesting questions are rarely about whether to adopt something, but about when a particular tool fits a particular problem. Most of my repositories here are private (version control for configuration, internal tooling, and experiments that are not ready for daylight), but the public ones reflect what I am building and how I think about it.
 
-![Stone Arch Bridge, April 2022](assets/StoneArchBridge_GitHub.jpg)
+## What is here
 
-***
+- [edwardjensen-net-jekyll](https://github.com/edwardjensen/edwardjensen-net-jekyll) — The code behind my blog, running on Jekyll and deployed via Cloudflare Pages.
 
-## Current projects and technological musings include
+## Recent writing
 
-- 🏢 Development of IT policies and procedures, especially when it comes to employee offboarding and enterprise data protection.
-- 🛻 Automation to support my cardinal rule of IT processes, which is to separate the person from the process
-- 📝 Scripting and integration with other enterprise tools to streamline IT's role in employee onboarding and offboarding.
-- 📰 And after many false starts, I'm finally getting around to revisiting the technology stack behind my blog, [edwardjensen.net](https://www.edwardjensen.net/), so it's not based on a monolithic WordPress instance, but something more cloudy (and less expensive!).
+<!-- BLOG-POSTS:START -->
+<!-- BLOG-POSTS:END -->
 
-***
+## Where to find me
 
-## Other ways to find me
-
-- My blog, [edwardjensen.net](https://hi.edwardjensen.net/github)
-- LinkedIn, [linkedin.com/in/edwardjensen](https://www.linkedin.com/in/edwardjensen)
+- Blog: [edwardjensen.net](https://www.edwardjensen.net/)
+- LinkedIn: [linkedin.com/in/edwardjensen](https://www.linkedin.com/in/edwardjensen)
+- Bluesky: [@edwardjensen.net](https://bsky.app/profile/edwardjensen.net)
