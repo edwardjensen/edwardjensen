@@ -11,6 +11,9 @@ I think of technology—including AI—as tools in a toolbox, not the toolbox it
 ## Recent writing
 
 <!-- BLOG-POSTS:START -->
+**[HAPPY NEW YEAR 2026](https://www.edwardjensen.net/posts/2025/2025-12/happy-new-year-2026) (31 December 2025)**
+_After a challenging year, warm wishes and higher hopes for a better 2026_
+
 **[THE BUILD IV: STAYING SANE WHILE SHIPPING FAST](https://www.edwardjensen.net/posts/2025/2025-12/the-build-iv-staying-sane-while-shipping-fast) (26 December 2025)**
 _AI tools can dramatically accelerate development, but that acceleration creates new risks. The speed dividend is only valuable if you take it as space, not just as more speed._
 
@@ -22,9 +25,6 @@ _You do not need to become a software developer to benefit from understanding ho
 
 **[THE BUILD I: CMS, MEET AI AND DIRECTED WORK](https://www.edwardjensen.net/posts/2025/2025-12/the-build-i-cms-meet-ai-and-directed-work) (16 December 2025)**
 _AI-assisted development is not about letting the AI take the wheel. The value comes from your ability to direct it effectively, and to recognize when it is heading in the wrong direction._
-
-**[THANKSGIVING GREETINGS](https://www.edwardjensen.net/posts/2025/2025-11/thanksgiving-greetings) (26 November 2025)**
-_In a disquieting year, the opportunity to quietly take stock of our blessings is valuable._
 <!-- BLOG-POSTS:END -->
 
 ## Where to find me
