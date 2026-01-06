@@ -21,9 +21,9 @@ _After a challenging year, warm wishes and higher hopes for a better 2026_
 _AI tools can dramatically accelerate development, but that acceleration creates new risks. The speed dividend is only valuable if you take it as space, not just as more speed._
 
 **[THE BUILD III: SCOPE AND KNOWING WHEN TO SHIP](https://www.edwardjensen.net/posts/2025/2025-12/the-build-iii) (23 December 2025)**
-_Even a solo project benefits from project management discipline. The practices that seem like "overhead" for a personal project are actually what let you ship._
+_Even a solo project benefits from project management discipline. The practices that seem like &quot;overhead&quot; for a personal project are actually what let you ship._
 
-**[THE BUILD II: I'M NOT A DEVELOPER, BUT I JUST SHIPPED A PRODUCTION APPLICATION](https://www.edwardjensen.net/posts/2025/2025-12/the-build-ii) (19 December 2025)**
+**[THE BUILD II: I&#39;M NOT A DEVELOPER, BUT I JUST SHIPPED A PRODUCTION APPLICATION](https://www.edwardjensen.net/posts/2025/2025-12/the-build-ii) (19 December 2025)**
 _You do not need to become a software developer to benefit from understanding how software development works. Here is what an accidental software developer learned—and why it might be useful to you, too._
 <!-- BLOG-POSTS:END -->
 
