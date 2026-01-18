@@ -11,6 +11,9 @@ I think of technology—including AI—as tools in a toolbox, not the toolbox it
 ## Recent writing
 
 <!-- BLOG-POSTS:START -->
+**[BLOGGING AS BORING](https://www.edwardjensen.net/posts/2026/2026-01/blogging-as-boring) (17 January 2026)**
+_The Internet is still what you want it to be. I want mine to be boring._
+
 **[ON SAINT PAUL: THE SKYWAYS](https://www.edwardjensen.net/posts/2026/2026-01/on-saint-paul-the-skyways) (2 January 2026)**
 _With a new mayor in Saint Paul, can we set aside incrementalism for bold thinking?_
 
@@ -22,9 +25,6 @@ _AI tools can dramatically accelerate development, but that acceleration creates
 
 **[THE BUILD III: SCOPE AND KNOWING WHEN TO SHIP](https://www.edwardjensen.net/posts/2025/2025-12/the-build-iii) (23 December 2025)**
 _Even a solo project benefits from project management discipline. The practices that seem like &quot;overhead&quot; for a personal project are actually what let you ship._
-
-**[THE BUILD II: I&#39;M NOT A DEVELOPER, BUT I JUST SHIPPED A PRODUCTION APPLICATION](https://www.edwardjensen.net/posts/2025/2025-12/the-build-ii) (19 December 2025)**
-_You do not need to become a software developer to benefit from understanding how software development works. Here is what an accidental software developer learned—and why it might be useful to you, too._
 <!-- BLOG-POSTS:END -->
 
 ## Where to find me
