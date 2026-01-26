@@ -11,6 +11,9 @@ I think of technology—including AI—as tools in a toolbox, not the toolbox it
 ## Recent writing
 
 <!-- BLOG-POSTS:START -->
+**[AN OPEN LETTER FROM EDDIE](https://www.edwardjensen.net/posts/2026/2026-01/an-open-letter-from-eddie) (25 January 2026)**
+_A challenging moment for Minnesota brings out the best in Minnesota...and America._
+
 **[BLOGGING AS BORING](https://www.edwardjensen.net/posts/2026/2026-01/blogging-as-boring) (17 January 2026)**
 _The Internet is still what you want it to be. I want mine to be boring._
 
@@ -22,9 +25,6 @@ _After a challenging year, warm wishes and higher hopes for a better 2026_
 
 **[THE BUILD IV: STAYING SANE WHILE SHIPPING FAST](https://www.edwardjensen.net/posts/2025/2025-12/the-build-iv-staying-sane-while-shipping-fast) (26 December 2025)**
 _AI tools can dramatically accelerate development, but that acceleration creates new risks. The speed dividend is only valuable if you take it as space, not just as more speed._
-
-**[THE BUILD III: SCOPE AND KNOWING WHEN TO SHIP](https://www.edwardjensen.net/posts/2025/2025-12/the-build-iii) (23 December 2025)**
-_Even a solo project benefits from project management discipline. The practices that seem like &quot;overhead&quot; for a personal project are actually what let you ship._
 <!-- BLOG-POSTS:END -->
 
 ## Where to find me
