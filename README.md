@@ -20,7 +20,7 @@ _The Internet is still what you want it to be. I want mine to be boring._
 **[ON SAINT PAUL: THE SKYWAYS](https://www.edwardjensen.net/posts/2026/2026-01/on-saint-paul-the-skyways) (2 January 2026)**
 _With a new mayor in Saint Paul, can we set aside incrementalism for bold thinking?_
 
-**[HAPPY NEW YEAR 2026](https://www.edwardjensen.net/posts/2025/2025-12/happy-new-year-2026) (31 December 2025)**
+**[HAPPY NEW YEAR 2026](https://www.edwardjensen.net/posts/2026/2026-01/happy-new-year-2026) (31 December 2025)**
 _After a challenging year, warm wishes and higher hopes for a better 2026_
 
 **[THE BUILD IV: STAYING SANE WHILE SHIPPING FAST](https://www.edwardjensen.net/posts/2025/2025-12/the-build-iv-staying-sane-while-shipping-fast) (26 December 2025)**
