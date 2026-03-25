@@ -11,6 +11,9 @@ I think of technology—including AI—as tools in a toolbox, not the toolbox it
 ## Recent writing
 
 <!-- BLOG-POSTS:START -->
+**[YOUR ROUTER IS NOT BANNED (YET)](https://www.edwardjensen.net/posts/2026/2026-03/your-router-is-not-banned-yet) (24 March 2026)**
+_The US FCC just added all foreign-produced consumer routers to its naughty list. The Internet is panicking. Here&#39;s what this actually means for IT practitioners - and why the unknowns are the real risk._
+
 **[AN OPEN LETTER FROM EDDIE](https://www.edwardjensen.net/posts/2026/2026-01/an-open-letter-from-eddie) (25 January 2026)**
 _A challenging moment for Minnesota brings out the best in Minnesota...and America._
 
@@ -22,9 +25,6 @@ _With a new mayor in Saint Paul, can we set aside incrementalism for bold thinki
 
 **[HAPPY NEW YEAR 2026](https://www.edwardjensen.net/posts/2026/2026-01/happy-new-year-2026) (31 December 2025)**
 _After a challenging year, warm wishes and higher hopes for a better 2026_
-
-**[THE BUILD IV: STAYING SANE WHILE SHIPPING FAST](https://www.edwardjensen.net/posts/2025/2025-12/the-build-iv-staying-sane-while-shipping-fast) (26 December 2025)**
-_AI tools can dramatically accelerate development, but that acceleration creates new risks. The speed dividend is only valuable if you take it as space, not just as more speed._
 <!-- BLOG-POSTS:END -->
 
 ## Where to find me
