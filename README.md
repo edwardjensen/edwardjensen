@@ -6,7 +6,7 @@ I think of technology—including AI—as tools in a toolbox, not the toolbox it
 
 ## What is here
 
-- [edwardjensen-net-jekyll](https://github.com/edwardjensen/edwardjensen-net-jekyll) — The code behind my blog, running on Jekyll and deployed via Cloudflare Pages.
+- [edwardjensen-net-astro](https://github.com/edwardjensen/edwardjensen-net-astro) — The code behind my blog, running on Astro and deployed via Cloudflare Workers.
 
 ## Recent writing
 
