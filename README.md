@@ -12,19 +12,14 @@ I think of technology—including AI—as tools in a toolbox, not the toolbox it
 
 <!-- BLOG-POSTS:START -->
 **[YOUR ROUTER IS NOT BANNED (YET)](https://www.edwardjensen.net/posts/2026/2026-03/your-router-is-not-banned-yet) (24 March 2026)**
-_The US FCC just added all foreign-produced consumer routers to its naughty list. The Internet is panicking. Here&#39;s what this actually means for IT practitioners - and why the unknowns are the real risk._
 
 **[AN OPEN LETTER FROM EDDIE](https://www.edwardjensen.net/posts/2026/2026-01/an-open-letter-from-eddie) (25 January 2026)**
-_A challenging moment for Minnesota brings out the best in Minnesota...and America._
 
 **[BLOGGING AS BORING](https://www.edwardjensen.net/posts/2026/2026-01/blogging-as-boring) (17 January 2026)**
-_The Internet is still what you want it to be. I want mine to be boring._
 
 **[ON SAINT PAUL: THE SKYWAYS](https://www.edwardjensen.net/posts/2026/2026-01/on-saint-paul-the-skyways) (2 January 2026)**
-_With a new mayor in Saint Paul, can we set aside incrementalism for bold thinking?_
 
-**[HAPPY NEW YEAR 2026](https://www.edwardjensen.net/posts/2026/2026-01/happy-new-year-2026) (31 December 2025)**
-_After a challenging year, warm wishes and higher hopes for a better 2026_
+**[HAPPY NEW YEAR 2026](https://www.edwardjensen.net/posts/2026/2026-01/happy-new-year-2026) (1 January 2026)**
 <!-- BLOG-POSTS:END -->
 
 ## Where to find me
